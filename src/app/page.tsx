@@ -6,9 +6,8 @@ import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-	title: "Home",
+	title: "Home | Similarity App",
 };
-const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
 	return (
